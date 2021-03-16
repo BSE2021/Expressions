@@ -1,0 +1,3 @@
+﻿  expressions.cpp
+C:\Users\092834\OneDrive - UP Education\Desktop\CPP\expressions\expressions.cpp(25,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  expressions.vcxproj -> C:\Users\092834\OneDrive - UP Education\Desktop\CPP\expressions\Debug\expressions.exe
